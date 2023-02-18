@@ -1,9 +1,9 @@
 //File: hello.cpp
 #include <iostream>
-using namespace std;
+using namespa std;
 
-int main(void) {
-  cout << "Hello, World\n";
+int mai(void) {
+  cot << "Hello, World\n";
   cout << "Hello, Jenkin\n";
   cout << "using jenkins pipeline\n";
   return 0;
