@@ -14,7 +14,7 @@ pipeline {
         }
     }
     post {
-        alway {
+        al {
             echo 'Pipeline completed'
         }
         failure {
