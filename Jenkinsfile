@@ -14,7 +14,7 @@ pipeline {
         }
     }
     post {
-        al {
+        always {
             echo 'Pipeline completed'
         }
         failure {
